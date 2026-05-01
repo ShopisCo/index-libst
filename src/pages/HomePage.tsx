@@ -20,7 +20,7 @@ const HomePage: React.FC = () => {
     {
       title: 'Payment Processing',
       description: 'Understand how Shoppland handles payments, supported gateways, and security features.',
-      imageSrc: 'https://embed-ssl.wistia.com/deliveries/8bfdd3f6880dd7d3876b09ffd61d7072.webp?image_crop_resized=960x540',
+      imageSrc: 'https://github.com/ShopisCo/index-libst/blob/main/public/8bfdd3f6880dd7d3876b09ffd61d7072.webp?raw=true',
       path: '/payment-system'
     }
   ];
