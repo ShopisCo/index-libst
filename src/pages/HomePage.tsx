@@ -7,7 +7,7 @@ const HomePage: React.FC = () => {
   const featuredArticles = [
     {
       title: 'Getting Started with ShopisCo',
-      description: 'A comprehensive guide for new users to start using the Shoppland e-commerce platform.',
+      description: 'A comprehensive guide for new users to start using the ShopisCo e-commerce platform.',
       imageSrc: 'https://github.com/ShopisCo/libstdc/blob/main/public/gemini_shopisappstore.png?raw=true',
       path: '/getting-started'
     },
@@ -19,7 +19,7 @@ const HomePage: React.FC = () => {
     },
     {
       title: 'Payment Processing',
-      description: 'Understand how Shoppland handles payments, supported gateways, and security features.',
+      description: 'Understand how ShopisCo handles payments, supported gateways, and security features.',
       imageSrc: 'https://github.com/ShopisCo/index-libst/blob/main/public/8bfdd3f6880dd7d3876b09ffd61d7072.webp?raw=true',
       path: '/payment-system'
     }
@@ -70,7 +70,7 @@ const HomePage: React.FC = () => {
     },
     {
       title: 'Security & Privacy',
-      description: 'Best practices for securing your Shoppland store',
+      description: 'Best practices for securing your ShopisCo store',
       icon: Shield,
       path: '/security & Privacy',
       articleCount: 9
@@ -134,7 +134,7 @@ const HomePage: React.FC = () => {
       <section className="border-t pt-8">
         <div className="flex flex-col md:flex-row justify-between gap-8">
           <div className="md:w-1/2">
-            <h2 className="text-xl font-bold mb-4">About Shoppland Wiki</h2>
+            <h2 className="text-xl font-bold mb-4">About ShopisCo Wiki</h2>
             <p className="text-muted-foreground mb-4">
               Shopisnews is a community-driven resource dedicated to new Updates all aspects of the Shopplistapp cross-platform. Our goal is to provide comprehensive, up-to-date information for all users.
             </p>
